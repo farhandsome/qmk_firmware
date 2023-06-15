@@ -4,7 +4,6 @@
     "maintainer": "qmk",
     "processor": "STM32F072",
     "bootloader": "stm32-dfu",
-    "board": "GENERIC_STM_F072",
     "usb": {
         "vid": "0xFB95",
         "pid": "0x0003",
